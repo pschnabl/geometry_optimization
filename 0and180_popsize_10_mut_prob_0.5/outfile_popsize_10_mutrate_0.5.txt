@@ -1,0 +1,131 @@
+converged SCF energy = -942.415953534684
+converged SCF energy = -942.525139468375
+converged SCF energy = -942.53147852177
+converged SCF energy = -942.53582726755
+converged SCF energy = -942.530585960374
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.530581841673
+converged SCF energy = -942.522208038247
+converged SCF energy = -942.533431648161
+converged SCF energy = -942.412198226307
+Generation:  0     Avg. Population Fitness:  -942.5073231774691
+Best Genome:  [0, 180, 0, 180, 0]   Energy:  -942.5358272675505
+----------
+converged SCF energy = -942.535827267553
+converged SCF energy = -942.53582726755
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.517041165749
+converged SCF energy = -942.410271528132
+converged SCF energy = -942.525139468373
+converged SCF energy = -942.535827267554
+converged SCF energy = -942.530581841673
+converged SCF energy = -942.535827267556
+converged SCF energy = -942.530581841671
+Generation:  1     Avg. Population Fitness:  -942.5192752183362
+Best Genome:  [0, 180, 0, 180, 0]   Energy:  -942.535827267556
+----------
+converged SCF energy = -942.535827267553
+converged SCF energy = -942.535827267552
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.509723035742
+converged SCF energy = -942.530581841672
+converged SCF energy = -942.535827267552
+converged SCF energy = -942.53058184167
+converged SCF energy = -942.535827267554
+converged SCF energy = -942.517041165749
+converged SCF energy = -942.522208038243
+Generation:  2     Avg. Population Fitness:  -942.5289272260837
+Best Genome:  [0, 180, 0, 180, 0]   Energy:  -942.5358272675537
+----------
+converged SCF energy = -942.535827267557
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.535827267552
+converged SCF energy = -942.530581841674
+converged SCF energy = -942.535827267553
+converged SCF energy = -942.535827267553
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.535827267551
+Generation:  3     Avg. Population Fitness:  -942.5355989615509
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334144
+----------
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.535827267551
+converged SCF energy = -942.535827267553
+converged SCF energy = -942.529390075514
+converged SCF energy = -942.53582726755
+converged SCF energy = -942.535827267554
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.535827267553
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633413
+Generation:  4     Avg. Population Fitness:  -942.5363684946927
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334144
+----------
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.535827267555
+converged SCF energy = -942.535827267552
+converged SCF energy = -942.538789633412
+converged SCF energy = -942.52182592189
+converged SCF energy = -942.415953534684
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.538789633413
+Generation:  5     Avg. Population Fitness:  -942.5242171792163
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334153
+----------
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.52182592189
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.414536420467
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.529390075513
+converged SCF energy = -942.521825921891
+Generation:  6     Avg. Population Fitness:  -942.5220316140243
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334153
+----------
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.531973147075
+converged SCF energy = -942.52182592189
+converged SCF energy = -942.415953534682
+converged SCF energy = -942.538789633412
+converged SCF energy = -942.538789633416
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.521825921893
+Generation:  7     Avg. Population Fitness:  -942.5224316326027
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334162
+----------
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633412
+converged SCF energy = -942.531973147072
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.535827267554
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.538789633414
+Generation:  8     Avg. Population Fitness:  -942.5378117481932
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334153
+----------
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.538789633413
+converged SCF energy = -942.533431648161
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.521825921894
+converged SCF energy = -942.533431648162
+converged SCF energy = -942.538789633414
+converged SCF energy = -942.538789633415
+converged SCF energy = -942.53582726755
+Generation:  9     Avg. Population Fitness:  -942.5357254286251
+Best Genome:  [0, 180, 180, 180, 0]   Energy:  -942.5387896334153
+----------
+runtime: 3.49 min
