@@ -283,4 +283,4 @@ plotfunc(best_energies, average_energies, explored_energies, pop_size, mut_prob,
 plt.show()
 
 sys.stdout.close()
-
+print('danke maxi')
